@@ -1,7 +1,7 @@
 {
   "name": "HASSAN-RAJPOOT-MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ʜᴀssᴀɴ ʀᴀᴊᴘᴏᴏᴛ²¹⁴",
-  "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+  "logo": "https://i.imghippo.com/files/XjZ3562g.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://telegra.ph/file/2a06381b260c3f096a612.jpg"
+      "value": "https://i.imghippo.com/files/XjZ3562g.jpg"
     }, 
     
     "ALIVE_MSG": {
