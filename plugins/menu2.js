@@ -40,7 +40,7 @@ let madeMenu = `*╭─────────────────❒⁠⁠
 
 
 *╭───────────────❒⁠⁠⁠⁠*
-*│* *_https://github.com/Panhwar110/Panhwar-MD*
+*│* *https://github.com/hussu71982/Hassan_Rajpoot_MD.git*
 *┕───────────────❒*
 
 *╭───────────────❒⁠⁠⁠⁠*
